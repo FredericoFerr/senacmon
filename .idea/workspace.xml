@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f483a3d2-9c66-4f86-a2d1-26845d292d3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/senacmon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotacoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements/requirements-base.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements/requirements-dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/management/commands/seed_senacmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/utils/rng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/admin/batalha_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/admin/mapa_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/admin/partida_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/choices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/domain/dto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/domain/excecoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/domain/regras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/domain/validadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/models/batalha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/models/eventos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/models/mapa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/models/partida.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/services/mapa_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/services/zona_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/accounts/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/accounts/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/game/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/game/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/wallet/balance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/wallet/transactions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wallet/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wallet/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="34XGEsaHkWRogBhmI1eeTTulCem" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fred/OneDrive/Documentos/PythonFullStack/UC3/Aula08/senacmon/src/wallet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;PyConsoleConfigurable.Python Console&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="senacmon" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="senacmon" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\wallet" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\game\migrations" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\common\utils" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\common" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\game\models" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\game\admin" />
+      <recent name="C:\Users\Fred\OneDrive\Documentos\PythonFullStack\UC3\Aula08\senacmon\src\templates\game" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f483a3d2-9c66-4f86-a2d1-26845d292d3f" name="Changes" comment="" />
+      <created>1761352394569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761352394569</updated>
+    </task>
+    <servers />
+  </component>
+</project>
