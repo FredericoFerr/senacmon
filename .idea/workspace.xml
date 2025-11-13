@@ -4,51 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f483a3d2-9c66-4f86-a2d1-26845d292d3f" name="Changes" comment="">
+    <list default="true" id="f483a3d2-9c66-4f86-a2d1-26845d292d3f" name="Changes" comment="projeto senacmon">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/senacmon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/anotacoes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements/requirements-base.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/management/commands/seed_senacmon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/utils/rng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/admin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/admin/batalha_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/admin/mapa_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/admin/partida_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/domain/dto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/domain/excecoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/domain/regras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/domain/validadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/models/batalha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/models/eventos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/models/mapa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/models/partida.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/services/mapa_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/services/zona_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/accounts/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/accounts/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/accounts/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/game/board.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/game/start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/wallet/balance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/wallet/transactions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wallet/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wallet/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +79,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761352394569</updated>
     </task>
+    <task id="LOCAL-00001" summary="projeto senacmon">
+      <option name="closed" value="true" />
+      <created>1762995791752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762995791752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeto senacmon" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto senacmon" />
   </component>
 </project>
